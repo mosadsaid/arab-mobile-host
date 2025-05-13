@@ -31,7 +31,7 @@
     "xss": "^1.0.14"
   },
   "engines": {
-    "node": "18.x",  // تحديث إلى إصدار Node.js 18.x
+    "node": "18.x",  // تم تحديث إصدار Node.js إلى 18.x
     "npm": "7.x"
   },
   "devDependencies": {
