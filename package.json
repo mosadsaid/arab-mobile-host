@@ -1,6 +1,6 @@
 {
   "name": "ChatSystem",
-  "version": "1.0.5",  // تأكد من وجود القيمة هنا بشكل صحيح
+  "version": "1.0.5",  // تأكد من أن النسخة مكتوبة بشكل صحيح
   "description": "This chat by mahdi slama",
   "main": "server.js",
   "scripts": {
