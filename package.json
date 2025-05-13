@@ -1,6 +1,6 @@
 {
   "name": "ChatSystem",
-  "version": "1.0.5",  // تأكد من أن النسخة هنا موجودة
+  "version": "1.0.5",  // تم تحديد النسخة بشكل صحيح
   "description": "This chat by mahdi slama",
   "main": "server.js",
   "scripts": {
