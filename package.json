@@ -4,21 +4,18 @@
   "description": "This chat by mahdi slama",
   "main": "server.js",
   "scripts": {
-    "start": "pm2 start server.js",
+    "start": "node server.js",   // تغيير إلى استخدام node بدلاً من pm2
     "stop": "pm2 stop server.js",
     "restart": "pm2 restart server.js"
   },
   "dependencies": {
     "@citoyasha/yt-search": "^1.0.1",
     "babel-plugin-transform-remove-console": "^6.9.4",
-    "bluebird": "",
     "child_process": "^1.0.2",
     "cors": "^2.8.5",
-    "ejs": "",
     "express": "^4.17.1",
     "formidable": "^1.2.2",
     "g": "^2.0.1",
-    "http": "",
     "jimp": "^0.16.1",
     "multer": "^1.4.2",
     "mysql": "^2.18.1",
