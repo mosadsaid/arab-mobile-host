@@ -1,6 +1,6 @@
 {
   "name": "ChatSystem",
-  "version": "1.0.5",  // تأكد من أن النسخة هنا موجودة ومكتوبة بشكل صحيح
+  "version": "1.0.5",
   "description": "This chat by mahdi slama",
   "main": "server.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "xss": "^1.0.14"
   },
   "engines": {
-    "node": "13.10.1",
+    "node": "16.x",
     "npm": "7.x"
   },
   "devDependencies": {
