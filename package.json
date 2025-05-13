@@ -1,10 +1,12 @@
 {
   "name": "ChatSystem",
-  "version": "1.0.5",
+  "version": "1.0.5",  // تأكد من أن النسخة هنا موجودة ومكتوبة بشكل صحيح
   "description": "This chat by mahdi slama",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"  // لا حاجة إلى PM2
+    "start": "node server.js",
+    "stop": "pm2 stop server.js",
+    "restart": "pm2 restart server.js"
   },
   "dependencies": {
     "@citoyasha/yt-search": "^1.0.1",
