@@ -31,7 +31,7 @@
     "xss": "^1.0.14"
   },
   "engines": {
-    "node": "16.x",
+    "node": "16.x",  // تحديث إلى إصدار 16.x أو 18.x
     "npm": "7.x"
   },
   "devDependencies": {
